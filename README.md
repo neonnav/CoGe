@@ -159,7 +159,8 @@ If you use CoGe-Pipeline in your research, please cite:
 CoGe-Pipeline: Automated Bacterial Genome Annotation & BGC Discovery Pipeline
 One Day One Genome (ODOG) Initiative
 Bharat Genome Database (BGDB)
-2025. Available at: [GitHub URL]
+Navaneeth S Raju
+2025. Available at: https://github.com/neonnav/CoGe
 ```
 
 **Additionally, please cite all the tools used in the pipeline** (see Tools table above).
@@ -168,8 +169,7 @@ Bharat Genome Database (BGDB)
 
 ## Author
 
-Developed as part of the **One Day One Genome (ODOG)** project  
-Maintained by **Bharat Genome Database (BGDB)** contributors
+Developed by **Navaneeth S Raju** as part of the **One Day One Genome (ODOG)** project  
 
 ---
 
