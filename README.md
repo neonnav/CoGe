@@ -72,7 +72,7 @@ sample_R1.fastq.gz
 sample_R2.fastq.gz
 ```
 
-⚠️ **Important**: Sample names must **NOT** contain spaces or special characters.
+**Important**: Sample names must **NOT** contain spaces or special characters.
 
 ---
 
@@ -185,4 +185,4 @@ For issues, questions, or contributions, please open an issue on GitHub or conta
 
 ---
 
-**⭐ If you find this pipeline useful, please consider starring the repository!**
+**If you find this pipeline useful, please consider starring the repository!**
